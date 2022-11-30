@@ -482,6 +482,7 @@
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
 | [Vector](https://vector.ma/) | Awesome website for all kinds of Moroccan vectors. |
 | [Heazy](https://app.heazy.studio/) | Unique vector assets within seconds. |
+| [Glaze](https://www.glazestock.com/) | Free Illustrations, for everything. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
