@@ -66,7 +66,7 @@
 | [IsoFlat](https://isoflat.com/)                                                                          | A Free collection of Isometric SVG graphic resources               |
 | [IRA Design](https://iradesign.io/)                                                                      | An open-source gradient illustrations collection by creative tim.   |
 | [Transparent Textures](https://www.transparenttextures.com/) | A collection of transparent textures background patterns. |
-| [icons8.com/illustrations](https://icons8.com/illustrations) | Free vector illustrations to class up your project |
+| [icons8.com/illustrations](https://icons8.com/illustrations) | Vector illustrations to class up your project |
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
 | [Freellustrations](https://www.freellustrations.com/) | Free Background Images for awesome landing Pages |
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |
@@ -89,7 +89,7 @@
 | [Mesh Gradient](https://meshgradient.in/)| Generate & download beautiful mesh gradients. |
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
-
+ | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -138,6 +138,7 @@
 | [UrbanFonts](https://www.urbanfonts.com/) | A collection of over 8000 free fonts and dingbats |
 | [Typespiration](https://typespiration.com/)| Inspirational font combinations and color palettes |
 | [Fontsource](https://fontsource.org/) | Self-host Open Source fonts in neatly bundled NPM packages. |
+| [FontBolt](https://www.fontbolt.com/) | Discover and generate your favorite fonts from pop culture. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -283,6 +284,7 @@
 | [3DICONS](https://3dicons.co) | Beautifully crafted open source 3D icons |
 | [IconsDb](https://www.iconsdb.com/) | Free Custom Icons |
 | [Emoji Guide](https://emojiguide.org/) | The collection of 3300 emojis with their HTML codes for easy use. |
+| [Unicorn Icons](https://unicornicons.com) | 100+ customizable playful animated icons. Available in JSON and SVG format. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -294,7 +296,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Instant Logo Search](http://instantlogosearch.com/)| Thousands of free brands logos ( SVG - PNG ) |
 | [LogoSear.ch](https://logosear.ch/search.html) | Search engine with over 200,000 SVG logos indexed |
 | [SVGPorn](https://svgporn.com) | 1000+ high-quality SVG logos |
 | [Payment System Logos](https://github.com/mpay24/payment-logos/) | Logos for payment systems available in png and svg |
@@ -547,6 +548,7 @@
 | [All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html) | Download free-website-templates |
 | [mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates |
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)| Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.|
+| [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -617,6 +619,7 @@
 | [twind](https://twind.dev/) | The smallest, fastest, most feature complete tailwind-in-js solution in existence |
 | [Pico.css](https://picocss.com/) | Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. |
 | [clay.css](https://github.com/codeAdrian/clay.css) | Extensible and configurable micro CSS util class and SASS mixin for adding claymorphism styles to your components. |
+| [BeerCSS](https://www.beercss.com) | Build Material Design interfaces in record time, without stress for devs 🍻. The first CSS framework that implements Material Design 3. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -792,7 +795,9 @@
 | [SVGR](https://react-svgr.com/)| SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
 | [uiverse](https://uiverse.io)| Hundreds Open-Source UI elements, made with HTML & CSS. Anyone can contribute. Includes buttons, checkboxes, spinners, cards, inputs and more. |
 | [HyperUI](https://www.hyperui.dev/)| Free open source Tailwind CSS components for marketing and ecommerce websites, as well as application UI. |
-
+| [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard)| Free and open-source admin dashboard template built with Tailwind CSS and Flowbite featuring 15 examples pages, charts, widgets, and dark mode. |
+| [Wicked Blocks](https://wickedblocks.dev/)| A free collection of Tailwind blocks & components |
+| [Mamba UI](https://mambaui.com/)| Mamba UI is a free, open-source collection of UI components and templates based on Tailwind CSS. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -865,6 +870,9 @@
 | [Radix UI](https://www.radix-ui.com/)| Unstyled, accessible components for building high‑quality design systems and web apps in React |
 | [Materio MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)| Most Powerful & Comprehensive Open-source MUI React NextJS Admin Dashboard Template built for developers. |
 | [Chakra Templates](https://chakra-templates.dev/)| A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
+| [React Resizable Panels](https://github.com/bvaughn/react-resizable-panels)| React components for resizable panel groups/layouts. |
+| [Carbon React](https://carbondesignsystem.com/developing/frameworks/react/)| Extensive library of React components for Websites and UI's. Based on the Carbon Design System from IBM |
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1079,7 +1087,7 @@
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
-| [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
+| [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution (4 free) |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 | [Big Heads](https://github.com/RobertBroersma/bigheads) | Easily generate avatars for your projects with Big Heads by Robert Broersma.
 | [Webflow](https://webflow.com/) | Break the code barrier, Build better business websites, faster. Without coding. |
@@ -1118,6 +1126,7 @@
 | [Visily](https://www.visily.ai)| Tool that empowers *non-designers* to design web and mobile app mockups |
 | [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
 | [Calc Generator](https://fpece.com/calc-generator) | Tool for easily creating precise Calc() CSS functions |
+| [Scrollbar.app](https://scrollbar.app) | Simple online editor for creating custom CSS scrollbars |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1275,6 +1284,8 @@
 | [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) |  Identify usability issues through a heuristic evaluation. |
 | [Angular Developer Tool](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools allows you to understand the structure of your application and preview the state of the directive and the component instances. |
 | [Redux Developer Tool](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) | Redux DevTools provides power-ups for your Redux development workflow. Apart from Redux, it can be used with any other architectures which handle the state. |
+| [Hackertab.dev](https://chrome.google.com/webstore/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) | Hackertab helps developers stay up-to-date with the latest dev news and resources in one tab. |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -1283,8 +1294,8 @@
 
 >Uncategorized Stuff
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you is just to drop the URL |
 | [Vertopal](https://www.vertopal.com/) | Free online platform for converting computer files to a variety of file formats |
 | [everysize.kibalabs.com](https://everysize.kibalabs.com/) | Check your awesome responsive webpage looks great in every size |
@@ -1308,8 +1319,8 @@
 | [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
 | [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical css for your web pages |
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
-| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more.  |
-| [30secondsofcode.org](https://www.30secondsofcode.org/) | A wide variety of snippet and article collections for CSS, JavaScript, Python and more.  |
+| [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more. |
+| [30secondsofcode.org](https://www.30secondsofcode.org/) | A wide variety of snippet and article collections for CSS, JavaScript, Python and more. |
 | [PlayCode](https://playcode.io/) | Javascript playground.  |
 | [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 | [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
@@ -1338,7 +1349,8 @@
 | [devices.css](http://marvelapp.github.io/devices.css/) | Pure CSS phones and tablets by Marvel App. |
 | [Troopl](https://troopl.com) | Build and publish a free portfolio in minutes. |
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
-| [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers.
+| [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
+| [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
